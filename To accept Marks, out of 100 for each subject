@@ -1,0 +1,22 @@
+#inculde<stdio.h>
+
+int main()
+{
+int phy,che;
+float avg,per;
+
+prinf("Enter marks obtained in physics");
+scanf("%d",& phy);
+
+printf("Enter marks obtained in chemistry");
+scanf("%d",&chem);
+
+sum=phy+che;
+printf("total marks obtained is %d ,sum);
+
+avg=sum/2;
+printf("the average is %f",avg);
+per=(sum/200)*100;
+printf("The percentage obtained are5f",per);
+return0;
+}
