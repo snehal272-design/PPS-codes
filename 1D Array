@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+int arr[5];
+for(i=0;i<5;i++)
+{
+printf("Enter element %d:\t",i);
+scanf("%d",&marks[i]);
+}
+printf("%d",marks[2]);
+
+for(j=0;j<;j++)
+{
+printf("%d",marks[j]);
+}
+return 0;
+}
